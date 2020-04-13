@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* My girlfriend
+* Football
+  * Manchester United
+  * Ghana
+* Programming
+* Helping less privileged
